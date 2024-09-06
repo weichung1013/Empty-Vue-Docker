@@ -30,4 +30,4 @@ coverage
 *.tsbuildinfo
 
 docker-compose.yml
-Dockerfile
+Dockerfile.tmp
